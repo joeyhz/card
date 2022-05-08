@@ -1,4 +1,25 @@
 .fl-bx {
     display: flex;
+    margin-top: 20px;
+    margin-left: 10%;
+    width: 80%;
+    border: 5px solid black;
+    border-radius: 3px;
     height: 500px;
+}
+
+body {
+    background-color: paleturquoise;
+}
+
+.msg {
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+    line-height: 1.5;
+    padding: 3%;
+    overflow: hidden;
 }
